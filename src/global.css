@@ -1,0 +1,54 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background: var(--unnamed-color-2d2b2b) 0% 0% no-repeat padding-box;
+  background: #2D2B2B 0% 0% no-repeat padding-box;
+  opacity: 1;
+
+}
+
+:root {
+
+  /* Colors: */
+  --unnamed-color-2d2b2b: #2D2B2B;
+  --unnamed-color-919191: #919191;
+  --unnamed-color-e7e4e4: #E7E4E4;
+  --unnamed-color-fb8200: #FB8200;
+  
+  /* Font/text values */
+  --unnamed-font-family-roboto: Roboto;
+  --unnamed-font-style-normal: normal;
+  --unnamed-font-weight-normal: normal;
+  --unnamed-font-weight-bold: bold;
+  --unnamed-font-size-10: 10px;
+  --unnamed-character-spacing-0: 0px;
+  --unnamed-line-spacing-13: 13px;
+  }
+  
+  /* Character Styles */
+  .unnamed-character-style-1 {
+  font-family: var(--unnamed-font-family-roboto);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-10);
+  line-height: var(--unnamed-line-spacing-13);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-fb8200);
+  }
+  .unnamed-character-style-2 {
+  font-family: var(--unnamed-font-family-roboto);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-normal);
+  font-size: var(--unnamed-font-size-10);
+  line-height: var(--unnamed-line-spacing-13);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-919191);
+
+  
+  }
+
