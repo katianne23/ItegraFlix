@@ -17,4 +17,7 @@ data de lançamento, e numero de popularidade do filme
 - Nessa pagina traz os detalhes do filme escolhido da pagina principal, aonde contem informações como
 sinopse, popularidade,votos, gêneros, produtoras alem do post do filme.
 
+### Veja o funcionamento da Aplicação
+[Itegraflix](https://moviepopular.netlify.app/)
+
 
